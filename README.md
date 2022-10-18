@@ -1,2 +1,26 @@
-# amhilal
-Profile
+<p align="center">
+
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+  
+</p>
+
+# Hey folks 👋  I'm Hilal Rauf
+
+<!-- Your badges
+You can use the website to generate badges: https://shields.io/
+-->
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/hilal-hipster)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/hilal-rauf-145256125)
+
+
+
+- 🔭 Senior/Lead Web Developer @ [Hipster Inc](https://hipster-inc.com)
+- 💬 Ask me about **Laravel** **PHP** **RubyonRails**
+- 📫 How to reach me: hilal_rf@hotmail.com
+- 😄 Pronouns: Pronouns: I, you, he, it, they, this
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"><a href="https://www.php.net" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/> </a>      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+</p>
