@@ -22,4 +22,4 @@ You can use the website to generate badges: https://shields.io/
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,rails,aws,js,html,css,bootstrap,linux,git,github,postman,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,rails,aws,js,html,css,bootstrap,linux,git,github,postman,redis&perline=5)](https://skillicons.dev)
