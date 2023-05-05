@@ -20,4 +20,6 @@ You can use the website to generate badges: https://shields.io/
 - 📫 How to reach me: hilal_rf@hotmail.com
 - 😄 Pronouns: Pronouns: I, you, he, it, they, this
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,js,html,css,bootstrap,linux)](https://skillicons.dev)
+<h3 align="left">Languages and Tools:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,rails,aws,js,html,css,bootstrap,linux,git,github,postman,redis)](https://skillicons.dev)
