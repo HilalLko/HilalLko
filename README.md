@@ -15,8 +15,8 @@ You can use the website to generate badges: https://shields.io/
 
 
 
-- 🔭 Senior/Lead Web Developer @ [Hipster Inc](https://hipster-inc.com)
-- 💬 Ask me about **Laravel** **PHP** **RubyonRails**
+- 🔭 Senior PHP (Web) Developer @ [AIT Inc](https://www.ait.com)
+- 💬 Ask me about **Laravel** **CodeIgniter** **PHP** **RubyonRails**
 - 📫 How to reach me: hilal_rf@hotmail.com
 - 😄 Pronouns: Pronouns: I, you, he, it, they, this
 
